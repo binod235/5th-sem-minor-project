@@ -1,0 +1,4 @@
+1.create database called 'chatApp' in mongodb
+2.Inside that database create two collections 'chats' and 'onlineUsers'
+3.Install all dependencies by looking at package.json file 
+4. In server.js file change the path of html file according to yours 
